@@ -1,8 +1,8 @@
 # Hello World, I'm Azizul
 
 <div align="right">
-  <a href="https://venmo.com/azizulwahid">
-    <img src="https://img.shields.io/badge/$-Support-39ff14.svg?style=flat" alt="Donate" />
+  <a href="https://paypal.me/azizulwahid12">
+    <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="Donate" />
   </a>
 </div>
 
@@ -24,8 +24,10 @@
 
 I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among others. 
 
+## :angel: &nbsp;&nbsp;GitHub Stats
+
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulwahid&langs_count=4&count_private=true&theme=merko&layout=compact&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulwahid&langs_count=4&count_private=true&langs_count=10&theme=merko&layout=compact&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my repos 😛</small>
   <br />
@@ -48,7 +50,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
   <br />
 </div>
 
-#### 🌊 &nbsp;&nbsp;My passions
+## 🌊 &nbsp;&nbsp;My passions
 
 * Technology and software
 * Physics 
