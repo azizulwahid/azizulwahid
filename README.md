@@ -25,9 +25,25 @@
 I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among others. 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulwahid&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulwahid&langs_count=4&count_private=true&theme=merko&layout=compact&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos 😛</small>
+  <small>Languages used in my repos 😛</small>
+  <br />
+  <br />
+</div>
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=azizulwahid&count_private=true&show_icons=true&theme=merko&layout=compact&hide_title=1&card_width=500" alt="Some stats in my repos" />
+  <br />
+  <small>Some stats to look at...</small>
+  <br />
+  <br />
+</div>
+
+<div align="center">
+  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=azizulwahid&theme=merko&stroke=0000&background=0D1117&ring=fdff00&fire=e05397&currStreakLabel=e05397&layout=compact&hide_title=1&card_width=500" alt="Some stats in my repos" />
+  <br />
+  <small>...more stats ☠️</small>
   <br />
   <br />
 </div>
