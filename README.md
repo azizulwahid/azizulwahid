@@ -2,7 +2,7 @@
 
 <div align="right">
   <a href="https://venmo.com/azizulwahid">
-    <img src="https://img.shields.io/badge/$-support-fdff00.svg?style=flat" alt="Donate" />
+    <img src="https://img.shields.io/badge/$-Support-39ff14.svg?style=flat" alt="Donate" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 </div>
 
 <div align="center">
-  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=azizulwahid&theme=merko&stroke=0000&background=0D1117&ring=fdff00&fire=fdff00&currStreakLabel=fdff00&layout=compact&hide_title=1&card_width=500" alt="Some stats in my repos" />
+  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=azizulwahid&theme=merko&stroke=0000&background=0D1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&layout=compact&hide_title=1&card_width=500" alt="Some stats in my repos" />
   <br />
   <small>...more stats ☠️</small>
   <br />
