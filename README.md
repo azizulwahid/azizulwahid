@@ -41,7 +41,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 </div>
 
 <div align="center">
-  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=azizulwahid&theme=merko&stroke=0000&background=0D1117&ring=fdff00&fire=e05397&currStreakLabel=e05397&layout=compact&hide_title=1&card_width=500" alt="Some stats in my repos" />
+  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=azizulwahid&theme=merko&stroke=0000&background=0D1117&ring=fdff00&fire=fdff00&currStreakLabel=fdff00&layout=compact&hide_title=1&card_width=500" alt="Some stats in my repos" />
   <br />
   <small>...more stats ☠️</small>
   <br />
