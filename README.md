@@ -52,7 +52,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 
 * Technology and software
 * Physics 
-* Machine learning
+* Traveling
 * Books ([goodreads](https://www.goodreads.com/user/show/119583496-azizul-wahid))
 * Diving & Climbing
 * Nature
