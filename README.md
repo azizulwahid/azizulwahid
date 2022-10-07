@@ -38,7 +38,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 * Physics 
 * Machine learning
 * Books ([goodreads](https://www.goodreads.com/user/show/119583496-azizul-wahid))
-* Nutrition
+* Diving & Climbing
 * Nature
 
 <br />
