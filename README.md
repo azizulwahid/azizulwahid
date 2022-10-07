@@ -2,7 +2,7 @@
 
 <div align="right">
   <a href="https://venmo.com/azizulwahid">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+    <img src="https://img.shields.io/badge/$-support-fdff00.svg?style=flat" alt="Donate" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
   <br />
 </div>
 
-#### 🧡 &nbsp;&nbsp;My passions
+#### 🌊 &nbsp;&nbsp;My passions
 
 * Technology and software
 * Physics 
