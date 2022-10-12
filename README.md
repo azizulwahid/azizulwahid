@@ -50,6 +50,9 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
   <br />
 </div>
 
+## Tech stacks & stuff i've worked with..
+* ...
+
 ## 🌊 &nbsp;&nbsp;My passions
 
 * Technology and software
