@@ -13,7 +13,7 @@
 </p>
 
 <p align="left" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/azizulwahid" target="_blank" style='margin-right:10px'>
+   <a href="https://twitter.com/azizulwahid_" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
