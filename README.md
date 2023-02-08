@@ -14,11 +14,11 @@
 
 <p align="left" style="margin: -20px 0 30px">
    <a href="https://twitter.com/azizulwahid_" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+    <img align="center" src="https://github.com/azizulwahid/azizulwahid/blob/main/public/images/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:azzlwahid@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+    <img align="center" src="https://github.com/azizulwahid/azizulwahid/blob/main/public/images/gmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
 
