@@ -56,13 +56,19 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="60" style="margin-right: 10px" /> </a>
-      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="jenkins" height="60" style="margin-right: 10px" /> </a> 
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" style="margin-right: 10px" /> </a> 
-      <a href="https://www.snowflake.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"  alt="snowflake" height="60" style="margin-right: 10px" /> </a>
-      <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" height="60" style="margin-right: 10px" /> </a> 
-      <a href="https://airflow.com/" target="_blank"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.png?api=v2" height="60" /> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="margin: -20px 0 30px" height="62" /> </a>
+    <span style="display:inline-block; width:20px;"></span>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" height="62" /> </a> 
+    <span style="display:inline-block; width:20px;"></span>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="62" /> </a> 
+    <span style="display:inline-block; width:20px;"></span>
+    <a href="https://www.snowflake.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg"  alt="snowflake" style="margin: -20px 0 30px" height="62" /> </a>
+    <span style="display:inline-block; width:20px;"></span>
+    <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="62" /> </a> 
+    <span style="display:inline-block; width:20px;"></span>
+    <a href="https://airflow.com/" target="_blank"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" style="margin: -20px 0 30px" height="62" /> </a> 
 </p>
+
 
 
 <br />
