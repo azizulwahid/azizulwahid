@@ -67,6 +67,8 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
     <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="62" /> </a> 
     <span style="display:inline-block; width:30px;"></span>
     <a href="https://airflow.com/" target="_blank"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" style="margin: -20px 0 30px" height="62" /> </a> 
+    <span style="display:inline-block; width:30px;"></span>
+    <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="62" /> </a> 
 </p>
 
 
