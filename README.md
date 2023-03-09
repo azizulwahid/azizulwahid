@@ -50,10 +50,9 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
   <br />
 </div>
 
-## Top Technologies and Tools I've worked with..
+## Top Technologies and Tools I've worked with...
 
 <br />
-
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="margin: -20px 0 30px" height="62" /> </a>
@@ -71,7 +70,6 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
     <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="62" /> </a> 
 </p>
 
-
 <br />
 
 ## 🌊 &nbsp;&nbsp;My passions
@@ -84,11 +82,12 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 * Nature
 
 <br />
+
 <a href="https://gist.github.com/azizulwahid/09207aebc855a9270c5b27de7f356942">
   <table align="right">
       <tr>
           <td>
-            Thanks for visiting. Here's a two-liners about my life as an engineer.
+            Thanks for visiting! Here's a two-liners about my life as an engineer.
           </td>
       </tr>
   </table>
