@@ -1,29 +1,63 @@
-name: Auto-Promote Changes to Production
+name: Staging-First Merge Logic
 
 on:
-  push:
+  pull_request:
     branches:
       - staging
 
 jobs:
-  auto-promote:
+  build-and-test:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Run automated tests
-      uses: actions/setup-node@v3
-      with:
-        node-version: '14'
+      - name: Build and test
+        run: |
+          # Run your build and test commands here
+          npm install
+          npm run build
 
-    - name: Promote to production
-      if: success()
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git checkout main
-        git merge --no-ff staging
-        git push origin main
+          # Run tests
+          echo "This is a dummy test. It always passes."
+
+      - name: Merge to staging
+        if: ${{ github.event.action == 'opened' }}
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: ${{ github.head_ref }}
+          target_branch: staging
+          pr_title: ${{ github.event.pull_request.title }}
+          pr_body: ${{ github.event.pull_request.body }}
+          pr_label: merge-to-staging
+
+      - name: Check for successful merge to staging
+        if: ${{ github.event.action == 'closed' && github.event.pull_request.merged && github.event.pull_request.base.ref == 'staging' }}
+        run: |
+          # Run your checks for successful merge to staging
+          npm install
+          npm run build
+
+          # Run tests
+          echo "This is a dummy test. It always passes."
+
+      - name: Merge to main
+        if: ${{ github.event.action == 'closed' && github.event.pull_request.merged && github.event.pull_request.base.ref == 'staging' && !contains(github.event.pull_request.labels.*.name, 'merge-to-main') }}
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: staging
+          target_branch: main
+          pr_title: ${{ github.event.pull_request.title }}
+          pr_body: ${{ github.event.pull_request.body }}
+          pr_label: merge-to-main
+
+      - name: Check for successful merge to main
+        if: ${{ github.event.action == 'closed' && github.event.pull_request.merged && github.event.pull_request.base.ref == 'main' }}
+        run: |
+          # Run your checks for successful merge to main
+          npm install
+          npm run build
+
+          # Run tests
+          echo "This is a dummy test. It always passes."
 
