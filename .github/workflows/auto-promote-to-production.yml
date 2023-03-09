@@ -15,8 +15,8 @@ jobs:
       - name: Build and test
         run: |
           # Run your build and test commands here
-          npm install
-          npm run build
+          npm install -g bats
+          npm run bats -v
 
           # Run tests
           echo "This is a dummy test. It always passes."
@@ -35,8 +35,8 @@ jobs:
         if: ${{ github.event.action == 'closed' && github.event.pull_request.merged && github.event.pull_request.base.ref == 'staging' }}
         run: |
           # Run your checks for successful merge to staging
-          npm install
-          npm run build
+          npm install -g bats
+          npm run bats -v
 
           # Run tests
           echo "This is a dummy test. It always passes."
@@ -55,8 +55,8 @@ jobs:
         if: ${{ github.event.action == 'closed' && github.event.pull_request.merged && github.event.pull_request.base.ref == 'main' }}
         run: |
           # Run your checks for successful merge to main
-          npm install
-          npm run build
+          npm install -g bats
+          npm run bats -v
 
           # Run tests
           echo "This is a dummy test. It always passes."
