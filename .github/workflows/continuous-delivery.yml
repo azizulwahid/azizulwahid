@@ -1,0 +1,22 @@
+name: Continuous Delivery
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Deploy to staging
+      if: github.ref == 'refs/heads/staging'
+      run: |
+        # Deploy code changes to staging environment
+    - name: Deploy to production
+      if: github.ref == 'refs/heads/main'
+      run: |
+        # Deploy code changes to production environment
+
