@@ -87,7 +87,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
   <table align="right">
       <tr>
           <td>
-            Thanks for visiting. Here's a two-liners about my life as an engineer.
+            Thanks for visiting! Here's a two-liners about my life as an engineer.
           </td>
       </tr>
   </table>
