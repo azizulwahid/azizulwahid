@@ -50,7 +50,7 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
   <br />
 </div>
 
-## Top Technologies and Tools I've worked with..
+## Top Technologies and Tools I've worked with...
 
 <br />
 
