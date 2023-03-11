@@ -22,7 +22,7 @@
   </a>
 </p>
 
-I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among others. 
+I'm a Data Engineer at [MoneyLion](https://www.moneylion.com/) :lion: who likes to build data pipelines among others. 
 
 ## :angel: &nbsp;&nbsp;GitHub Stats
 
