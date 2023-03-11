@@ -80,15 +80,3 @@ I'm a Data Engineer at MoneyLion :lion: who likes to build data pipelines among 
 * Books ([goodreads](https://www.goodreads.com/user/show/119583496-azizul-wahid))
 * Diving & Climbing
 * Nature
-
-<br />
-
-<a href="https://gist.github.com/azizulwahid/09207aebc855a9270c5b27de7f356942">
-  <table align="right">
-      <tr>
-          <td>
-            Thanks for visiting! Here's a two-liners about my life as an engineer.
-          </td>
-      </tr>
-  </table>
-</a>
