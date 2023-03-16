@@ -78,5 +78,6 @@ I'm a Data Engineer at [MoneyLion](https://www.moneylion.com/) :lion: who likes 
 * Physics 
 * Traveling
 * Books ([goodreads](https://www.goodreads.com/user/show/119583496-azizul-wahid))
-* Diving & Climbing
+* Diving
+* Climbing
 * Nature
