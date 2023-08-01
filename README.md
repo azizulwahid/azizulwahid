@@ -27,7 +27,7 @@ I'm a Data Engineer at [MoneyLion](https://www.moneylion.com/) :lion: who likes 
 ## :angel: &nbsp;&nbsp;GitHub Stats
 
 <div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulwahid&langs_count=4&count_private=true&langs_count=10&theme=merko&layout=compact&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulwahid&count_private=true&langs_count=10&theme=merko&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my repos 😛</small>
   <br />
